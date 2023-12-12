@@ -1,0 +1,391 @@
+{
+  "stringTable": {
+    "0": "E:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android19 --gcc-toolchain=E:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_audio_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -Wextra -Weverything -Wno-cast-align -Wno-conversion -Wno-covered-switch-default -Wno-disabled-macro-expansion -Wno-documentation-deprecated-sync -Wno-format-nonliteral -Wno-missing-field-initializers -Wno-padded -Wno-reserved-id-macro -Wno-sign-compare -Wno-thread-safety-analysis -Wno-type-limits -Wno-unused-parameter -Wno-used-but-marked-unused -Wno-vla -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-error=deprecated-declarations -Wno-error=unused-macros -Wno-error=float-equal -Wno-error=cast-qual -Wno-error=strict-prototypes -Wno-error=gnu-statement-expression -Wno-documentation -Werror -std=c99 -fPIC -O0 -fno-limit-debug-info -fPIC",
+    "2": "--target=i686-none-linux-android19 --gcc-toolchain=E:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O0 -fno-limit-debug-info -fPIC",
+    "3": "--target=i686-none-linux-android19 --gcc-toolchain=E:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=E:/Android/sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -IE:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\CMakeLists.txt",
+    "E:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\CMakeLists.txt",
+    "E:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-audio-jni-Debug-x86": {
+      "buildCommand": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86\" native-audio-jni",
+      "buildType": "debug",
+      "toolchain": "1965837491",
+      "abi": "x86",
+      "artifactName": "native-audio-jni",
+      "files": [
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\native-audio-jni.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-audio-jni.so",
+      "runtimeFiles": []
+    },
+    "webrtc-Debug-x86": {
+      "buildCommand": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86\" webrtc",
+      "buildType": "debug",
+      "toolchain": "1965837491",
+      "abi": "x86",
+      "artifactName": "webrtc",
+      "files": [
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\randomization_functions.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\spl_sqrt_floor.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\division_operations.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\vector_scaling_operations.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\downsample_fast.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\cross_correlation.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\spl_init.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\min_max_operations.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\complex_fft.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\complex_bit_reverse.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\real_fft.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\delay_estimator.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\delay_estimator_wrapper.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\ring_buffer.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\aecm_core.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\echo_control_mobile.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86\\webrtc\\libwebrtc.a",
+      "runtimeFiles": []
+    },
+    "filter_audio-Debug-x86": {
+      "buildCommand": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86\" filter_audio",
+      "buildType": "debug",
+      "toolchain": "1965837491",
+      "abi": "x86",
+      "artifactName": "filter_audio",
+      "files": [
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\filter_audio.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\webrtc_vad.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_core.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_gmm.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_filterbank.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_sp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\zam\\filters.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\energy.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\float_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\ring_buffer.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\downsample_fast.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\speex_resampler.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\high_pass_filter.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_by_2_internal.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\randomization_functions.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\cross_correlation.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\copy_set_operations.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\complex_bit_reverse.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\real_fft.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_by_2.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_init.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_fractional.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\vector_scaling_operations.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\get_scaling_square.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\delay_estimator.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\delay_estimator_wrapper.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\splitting_filter.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_sqrt_floor.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_48khz.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_sqrt.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\fft4g.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\division_operations.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\dot_product_with_scale.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\complex_fft.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\min_max_operations.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_rdft.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\echo_cancellation.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_rdft_sse2.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_core.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_core_sse2.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_resampler.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\noise_suppression.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\nsx_core_c.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\noise_suppression_x.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\nsx_core.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\ns_core.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\agc\\digital_agc.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\agc\\analog_agc.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86\\filter_audio\\libfilter_audio.a",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1965837491": {
+      "cCompilerExecutable": "E:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

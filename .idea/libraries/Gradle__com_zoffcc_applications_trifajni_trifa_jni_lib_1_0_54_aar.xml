@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.zoffcc.applications.trifajni:trifa-jni-lib:1.0.54@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c09c38936733337dbcc5799823adcdaa/jetified-trifa-jni-lib-1.0.54/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c09c38936733337dbcc5799823adcdaa/jetified-trifa-jni-lib-1.0.54/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c09c38936733337dbcc5799823adcdaa/jetified-trifa-jni-lib-1.0.54/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

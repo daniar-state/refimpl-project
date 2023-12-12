@@ -1,0 +1,36 @@
+{
+  "buildFiles": [
+    "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\CMakeLists.txt",
+    "E:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\CMakeLists.txt",
+    "E:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-audio-jni-Debug-arm64-v8a": {
+      "artifactName": "native-audio-jni",
+      "buildCommand": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\arm64-v8a\" native-audio-jni",
+      "abi": "arm64-v8a",
+      "output": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\build\\intermediates\\cmake\\debug\\obj\\arm64-v8a\\libnative-audio-jni.so",
+      "runtimeFiles": []
+    },
+    "filter_audio-Debug-arm64-v8a": {
+      "artifactName": "filter_audio",
+      "buildCommand": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\arm64-v8a\" filter_audio",
+      "abi": "arm64-v8a",
+      "output": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\arm64-v8a\\filter_audio\\libfilter_audio.a",
+      "runtimeFiles": []
+    },
+    "webrtc-Debug-arm64-v8a": {
+      "artifactName": "webrtc",
+      "buildCommand": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\arm64-v8a\" webrtc",
+      "abi": "arm64-v8a",
+      "output": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\arm64-v8a\\webrtc\\libwebrtc.a",
+      "runtimeFiles": []
+    }
+  }
+}

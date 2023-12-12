@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.maskarade.android.orma:orma:6.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9f8115a171981bdee8d2d53b0cc526f/jetified-orma-6.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9f8115a171981bdee8d2d53b0cc526f/jetified-orma-6.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d9f8115a171981bdee8d2d53b0cc526f/jetified-orma-6.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.maskarade.android.orma/orma/6.0.2/742d1fdb425967a4295a4f8d8da0665652f552a9/orma-6.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.maskarade.android.orma/orma/6.0.2/263de482505eb1465066f7848807909b72147182/orma-6.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

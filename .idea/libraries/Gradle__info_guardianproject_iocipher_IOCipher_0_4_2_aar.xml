@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: info.guardianproject.iocipher:IOCipher:0.4.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/005d143fdb4289b75cd535c9fac2a789/jetified-IOCipher-0.4.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/005d143fdb4289b75cd535c9fac2a789/jetified-IOCipher-0.4.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/005d143fdb4289b75cd535c9fac2a789/jetified-IOCipher-0.4.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

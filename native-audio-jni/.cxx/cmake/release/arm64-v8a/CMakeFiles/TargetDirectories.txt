@@ -1,0 +1,9 @@
+C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/arm64-v8a/CMakeFiles/native-audio-jni.dir
+C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/arm64-v8a/filter_audio/CMakeFiles/filter_audio.dir
+C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/arm64-v8a/filter_audio/CMakeFiles/edit_cache.dir
+C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/arm64-v8a/filter_audio/CMakeFiles/rebuild_cache.dir
+C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/arm64-v8a/webrtc/CMakeFiles/webrtc.dir
+C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/arm64-v8a/webrtc/CMakeFiles/edit_cache.dir
+C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/arm64-v8a/webrtc/CMakeFiles/rebuild_cache.dir

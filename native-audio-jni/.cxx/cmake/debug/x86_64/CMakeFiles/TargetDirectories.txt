@@ -1,0 +1,9 @@
+E:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/.cxx/cmake/debug/x86_64/CMakeFiles/native-audio-jni.dir
+E:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+E:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir
+E:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/.cxx/cmake/debug/x86_64/filter_audio/CMakeFiles/filter_audio.dir
+E:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/.cxx/cmake/debug/x86_64/filter_audio/CMakeFiles/edit_cache.dir
+E:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/.cxx/cmake/debug/x86_64/filter_audio/CMakeFiles/rebuild_cache.dir
+E:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/.cxx/cmake/debug/x86_64/webrtc/CMakeFiles/webrtc.dir
+E:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/.cxx/cmake/debug/x86_64/webrtc/CMakeFiles/edit_cache.dir
+E:/1/AS_project/ToxAndroidRefImpl-zoff99-dev003/android-refimpl-app/native-audio-jni/.cxx/cmake/debug/x86_64/webrtc/CMakeFiles/rebuild_cache.dir

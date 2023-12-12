@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.lawloretienne:discreteslider:0.0.9@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/627d346b9d9bb4c82c133af34ddda007/jetified-discreteslider-0.0.9/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/627d346b9d9bb4c82c133af34ddda007/jetified-discreteslider-0.0.9/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/627d346b9d9bb4c82c133af34ddda007/jetified-discreteslider-0.0.9/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.lawloretienne/discreteslider/0.0.9/a88c6fe75af1fff16543894ca91cf02389f5bef9/discreteslider-0.0.9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

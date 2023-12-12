@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: me.zhanghai.android.patternlock:library:2.1.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d398fffc6e06775094298eb3d4b66a33/jetified-library-2.1.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d398fffc6e06775094298eb3d4b66a33/jetified-library-2.1.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d398fffc6e06775094298eb3d4b66a33/jetified-library-2.1.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.patternlock/library/2.1.2/fda2d1d47b7fbb1cdf0a47bd5b6b737023de250d/library-2.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/me.zhanghai.android.patternlock/library/2.1.2/34032560cff1b532aaae9a5300cf3419e91a3a7d/library-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

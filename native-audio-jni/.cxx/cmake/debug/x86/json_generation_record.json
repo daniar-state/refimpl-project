@@ -1,0 +1,254 @@
+[
+  {
+    "level": "INFO",
+    "message": "Start JSON generation. Platform version: 19 min SDK version: x86",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "No CMake version was specified in build.gradle. Using default version 3.10.2.",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Trying to locate CMake in local SDK repository.",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\build-tools\\25.0.0\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\build-tools\\25.0.3\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\build-tools\\26.0.2\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\build-tools\\27.0.3\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\build-tools\\28.0.3\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\build-tools\\29.0.2\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\build-tools\\29.0.3\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\build-tools\\30.0.0-rc2\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\cmake\\3.10.2.4988404\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\emulator\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\extras\\android\\m2repository\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\extras\\google\\m2repository\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\extras\\intel\\Hardware_Accelerated_Execution_Manager\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\ndk\\20.0.5594570\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\ndk\\21.0.6113669\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\patcher\\v4\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\platform-tools\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\platforms\\android-21\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\platforms\\android-23\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\platforms\\android-24\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\platforms\\android-25\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\platforms\\android-26\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\platforms\\android-27\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\platforms\\android-28\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\platforms\\android-29\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\sources\\android-24\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\sources\\android-26\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\sources\\android-27\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\sources\\android-28\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\sources\\android-29\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\system-images\\android-19\\google_apis\\x86\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\system-images\\android-23\\google_apis\\x86\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\system-images\\android-28\\google_apis\\x86\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\system-images\\android-28\\google_apis_playstore\\x86\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\system-images\\android-29\\google_apis\\x86\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "Parsing E:\\Android\\sdk\\tools\\package.xml",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "- CMake found in SDK at \u0027E:\\Android\\sdk\\cmake\\3.10.2.4988404\u0027 had version \u00273.10.2\u0027",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON \u0027E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86\\android_gradle_build.json\u0027 was up-to-date",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  },
+  {
+    "level": "INFO",
+    "message": "JSON generation completed without problems",
+    "file": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+    "tag": "debug|x86"
+  }
+]

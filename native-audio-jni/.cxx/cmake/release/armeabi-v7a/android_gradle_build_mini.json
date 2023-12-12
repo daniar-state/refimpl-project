@@ -1,0 +1,36 @@
+{
+  "buildFiles": [
+    "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\CMakeLists.txt",
+    "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\CMakeLists.txt",
+    "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "filter_audio-Release-armeabi-v7a": {
+      "artifactName": "filter_audio",
+      "buildCommand": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\armeabi-v7a\" filter_audio",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\armeabi-v7a\\filter_audio\\libfilter_audio.a",
+      "runtimeFiles": []
+    },
+    "webrtc-Release-armeabi-v7a": {
+      "artifactName": "webrtc",
+      "buildCommand": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\armeabi-v7a\" webrtc",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\armeabi-v7a\\webrtc\\libwebrtc.a",
+      "runtimeFiles": []
+    },
+    "native-audio-jni-Release-armeabi-v7a": {
+      "artifactName": "native-audio-jni",
+      "buildCommand": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\armeabi-v7a\" native-audio-jni",
+      "abi": "armeabi-v7a",
+      "output": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a\\libnative-audio-jni.so",
+      "runtimeFiles": []
+    }
+  }
+}

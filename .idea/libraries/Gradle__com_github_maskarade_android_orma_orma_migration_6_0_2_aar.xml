@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.maskarade.android.orma:orma-migration:6.0.2@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6cfc872ea2f3e0014daf2c3794f2f9f5/jetified-orma-migration-6.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6cfc872ea2f3e0014daf2c3794f2f9f5/jetified-orma-migration-6.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6cfc872ea2f3e0014daf2c3794f2f9f5/jetified-orma-migration-6.0.2/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.maskarade.android.orma/orma-migration/6.0.2/1ea80f48866338c5a5be3d2072ff9e2991be2fe5/orma-migration-6.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.maskarade.android.orma/orma-migration/6.0.2/c628872602e956bca5f52fa0c5fe07d1788d5b3a/orma-migration-6.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

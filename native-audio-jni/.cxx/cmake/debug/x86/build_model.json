@@ -1,0 +1,215 @@
+{
+  "abi": "X86",
+  "abiPlatformVersion": 19,
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "cmake": {
+    "cmakeArtifactsBaseFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86",
+    "cmakeServerLogFile": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86\\cmake_server_log.txt",
+    "cmakeWrappingBaseFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cxx\\debug\\x86",
+    "effectiveConfiguration": {
+      "name": "traditional-android-studio-cmake-environment",
+      "description": "Composite reified CMakeSettings configuration",
+      "generator": "Ninja",
+      "inheritEnvironments": [
+        "ndk"
+      ],
+      "buildRoot": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86",
+      "cmakeToolchain": "E:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+      "cmakeExecutable": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+      "variables": [
+        {
+          "name": "CMAKE_CXX_FLAGS",
+          "value": "-g -O3"
+        },
+        {
+          "name": "CMAKE_C_FLAGS",
+          "value": "-g -O3"
+        },
+        {
+          "name": "CMAKE_FIND_ROOT_PATH",
+          "value": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\prefab\\x86\\prefab"
+        },
+        {
+          "name": "CMAKE_BUILD_TYPE",
+          "value": "Debug"
+        },
+        {
+          "name": "CMAKE_TOOLCHAIN_FILE",
+          "value": "E:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake"
+        },
+        {
+          "name": "ANDROID_ABI",
+          "value": "x86"
+        },
+        {
+          "name": "ANDROID_NDK",
+          "value": "E:\\Android\\sdk\\ndk\\21.0.6113669"
+        },
+        {
+          "name": "ANDROID_PLATFORM",
+          "value": "android-19"
+        },
+        {
+          "name": "CMAKE_ANDROID_ARCH_ABI",
+          "value": "x86"
+        },
+        {
+          "name": "CMAKE_ANDROID_NDK",
+          "value": "E:\\Android\\sdk\\ndk\\21.0.6113669"
+        },
+        {
+          "name": "CMAKE_EXPORT_COMPILE_COMMANDS",
+          "value": "ON"
+        },
+        {
+          "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
+          "value": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\build\\intermediates\\cmake\\debug\\obj\\x86"
+        },
+        {
+          "name": "CMAKE_MAKE_PROGRAM",
+          "value": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+        },
+        {
+          "name": "CMAKE_SYSTEM_NAME",
+          "value": "Android"
+        },
+        {
+          "name": "CMAKE_SYSTEM_VERSION",
+          "value": "19"
+        }
+      ]
+    }
+  },
+  "cxxBuildFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86",
+  "info": {
+    "abi": "X86",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "originalCxxBuildFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\x86",
+  "variant": {
+    "buildSystemArgumentList": [],
+    "buildTargetSet": [],
+    "cFlagsList": [
+      "-g -O3"
+    ],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "cppFlagsList": [
+      "-g -O3"
+    ],
+    "isDebuggableEnabled": true,
+    "module": {
+      "buildSystem": "CMAKE",
+      "cmake": {
+        "cmakeExe": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe",
+        "minimumCmakeVersion": "3.10.2",
+        "ninjaExe": "E:\\Android\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe"
+      },
+      "cmakeToolchainFile": "E:\\Android\\sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+      "cxxFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx",
+      "gradleModulePathName": ":native-audio-jni",
+      "intermediatesFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\build\\intermediates",
+      "makeFile": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt",
+      "moduleBuildFile": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\build.gradle",
+      "moduleRootFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni",
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkFolder": "E:\\Android\\sdk\\ndk\\21.0.6113669",
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "ndkMetaPlatforms": {
+        "min": 16,
+        "max": 29,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29
+        }
+      },
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkVersion": "21.0.6113669",
+      "project": {
+        "compilerSettingsCacheFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\.cxx",
+        "cxxFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\.cxx",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isNativeCompilerSettingsCacheEnabled": false,
+        "rootBuildGradleFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app",
+        "sdkFolder": "E:\\Android\\sdk",
+        "isPrefabEnabled": false
+      },
+      "splitsAbiFilterSet": [],
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "E:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "E:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "E:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "E:\\Android\\sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      }
+    },
+    "objFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\build\\intermediates\\cmake\\debug\\obj",
+    "variantName": "debug",
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "prefabDirectory": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\prefab",
+    "prefabPackageDirectoryList": []
+  },
+  "prefabFolder": "E:\\1\\AS_project\\ToxAndroidRefImpl-zoff99-dev003\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\debug\\prefab\\x86"
+}

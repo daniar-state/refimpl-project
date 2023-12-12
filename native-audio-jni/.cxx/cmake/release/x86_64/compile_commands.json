@@ -1,0 +1,391 @@
+[
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_audio_jni_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -Wextra -Weverything -Wno-cast-align -Wno-conversion -Wno-covered-switch-default -Wno-disabled-macro-expansion -Wno-documentation-deprecated-sync -Wno-format-nonliteral -Wno-missing-field-initializers -Wno-padded -Wno-reserved-id-macro -Wno-sign-compare -Wno-thread-safety-analysis -Wno-type-limits -Wno-unused-parameter -Wno-used-but-marked-unused -Wno-vla -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-error=deprecated-declarations -Wno-error=unused-macros -Wno-error=float-equal -Wno-error=cast-qual -Wno-error=strict-prototypes -Wno-error=gnu-statement-expression -Wno-documentation -Werror  -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\native-audio-jni.dir\\native-audio-jni.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\native-audio-jni.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\native-audio-jni.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\filter_audio.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\filter_audio.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\filter_audio.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\vad\\webrtc_vad.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\webrtc_vad.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\webrtc_vad.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\vad\\vad_core.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_core.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_core.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\vad\\vad_gmm.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_gmm.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_gmm.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\vad\\vad_filterbank.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_filterbank.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_filterbank.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\vad\\vad_sp.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_sp.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_sp.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\zam\\filters.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\zam\\filters.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\zam\\filters.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\energy.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\energy.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\energy.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\float_util.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\float_util.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\float_util.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\ring_buffer.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\ring_buffer.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\ring_buffer.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\downsample_fast.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\downsample_fast.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\downsample_fast.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\speex_resampler.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\speex_resampler.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\speex_resampler.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\high_pass_filter.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\high_pass_filter.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\high_pass_filter.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\resample_by_2_internal.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_by_2_internal.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_by_2_internal.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\randomization_functions.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\randomization_functions.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\randomization_functions.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\cross_correlation.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\cross_correlation.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\cross_correlation.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\copy_set_operations.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\copy_set_operations.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\copy_set_operations.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\complex_bit_reverse.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\complex_bit_reverse.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\complex_bit_reverse.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\real_fft.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\real_fft.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\real_fft.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\resample_by_2.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_by_2.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_by_2.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\spl_init.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_init.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_init.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\resample_fractional.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_fractional.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_fractional.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\vector_scaling_operations.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\vector_scaling_operations.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\vector_scaling_operations.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\get_scaling_square.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\get_scaling_square.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\get_scaling_square.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\delay_estimator.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\delay_estimator.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\delay_estimator.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\delay_estimator_wrapper.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\delay_estimator_wrapper.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\delay_estimator_wrapper.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\splitting_filter.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\splitting_filter.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\splitting_filter.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\spl_sqrt_floor.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_sqrt_floor.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_sqrt_floor.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\resample_48khz.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_48khz.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_48khz.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\spl_sqrt.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_sqrt.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_sqrt.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\fft4g.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\fft4g.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\fft4g.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\division_operations.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\division_operations.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\division_operations.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\dot_product_with_scale.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\dot_product_with_scale.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\dot_product_with_scale.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\complex_fft.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\complex_fft.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\complex_fft.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\other\\min_max_operations.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\min_max_operations.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\min_max_operations.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\aec\\aec_rdft.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_rdft.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_rdft.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\aec\\echo_cancellation.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\echo_cancellation.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\echo_cancellation.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\aec\\aec_rdft_sse2.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_rdft_sse2.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_rdft_sse2.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\aec\\aec_core.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_core.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_core.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\aec\\aec_core_sse2.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_core_sse2.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_core_sse2.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\aec\\aec_resampler.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_resampler.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_resampler.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\ns\\noise_suppression.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\noise_suppression.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\noise_suppression.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\ns\\nsx_core_c.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\nsx_core_c.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\nsx_core_c.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\ns\\noise_suppression_x.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\noise_suppression_x.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\noise_suppression_x.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\ns\\nsx_core.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\nsx_core.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\nsx_core.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\ns\\ns_core.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\ns_core.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\ns_core.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\agc\\digital_agc.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\agc\\digital_agc.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\agc\\digital_agc.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot   -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG  -fPIC   -o filter_audio\\CMakeFiles\\filter_audio.dir\\agc\\analog_agc.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\agc\\analog_agc.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\agc\\analog_agc.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\randomization_functions.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\randomization_functions.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\randomization_functions.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\spl_sqrt_floor.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\spl_sqrt_floor.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\spl_sqrt_floor.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\division_operations.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\division_operations.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\division_operations.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\vector_scaling_operations.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\vector_scaling_operations.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\vector_scaling_operations.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\downsample_fast.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\downsample_fast.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\downsample_fast.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\cross_correlation.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\cross_correlation.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\cross_correlation.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\spl_init.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\spl_init.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\spl_init.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\min_max_operations.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\min_max_operations.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\min_max_operations.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\complex_fft.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\complex_fft.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\complex_fft.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\complex_bit_reverse.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\complex_bit_reverse.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\complex_bit_reverse.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\real_fft.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\real_fft.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\real_fft.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\delay_estimator.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\delay_estimator.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\delay_estimator.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\delay_estimator_wrapper.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\delay_estimator_wrapper.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\delay_estimator_wrapper.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\ring_buffer.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\ring_buffer.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\ring_buffer.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\aecm_core.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\aecm_core.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\aecm_core.c"
+},
+
+{
+  "directory": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+  "command": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -I\"C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include\"  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG  -fPIC   -o webrtc\\CMakeFiles\\webrtc.dir\\echo_control_mobile.c.o   -c \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\echo_control_mobile.c\"",
+  "file": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\echo_control_mobile.c"
+}
+]

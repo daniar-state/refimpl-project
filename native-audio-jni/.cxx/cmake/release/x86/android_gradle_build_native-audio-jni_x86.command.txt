@@ -1,0 +1,7 @@
+Executable : C:\Users\77471\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\77471\Desktop\Android\app project\android-refimpl-app\native-audio-jni\.cxx\cmake\release\x86
+native-audio-jni
+jvmArgs : 
+

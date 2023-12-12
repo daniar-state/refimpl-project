@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.maskarade.android.orma:orma-annotations:6.0.2@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.maskarade.android.orma/orma-annotations/6.0.2/54123b374a88faf262e4e06a33a627cbdad24837/orma-annotations-6.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.maskarade.android.orma/orma-annotations/6.0.2/313a7369ae9362de82b21be4d7c048225f1bf164/orma-annotations-6.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.maskarade.android.orma/orma-annotations/6.0.2/dd9123630c425b1999dbb00e6d090120ddb89a8b/orma-annotations-6.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

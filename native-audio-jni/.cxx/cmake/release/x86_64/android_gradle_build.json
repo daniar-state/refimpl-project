@@ -1,0 +1,391 @@
+{
+  "stringTable": {
+    "0": "C:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/.cxx/cmake/release/x86_64",
+    "1": "--target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_audio_jni_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -Wextra -Weverything -Wno-cast-align -Wno-conversion -Wno-covered-switch-default -Wno-disabled-macro-expansion -Wno-documentation-deprecated-sync -Wno-format-nonliteral -Wno-missing-field-initializers -Wno-padded -Wno-reserved-id-macro -Wno-sign-compare -Wno-thread-safety-analysis -Wno-type-limits -Wno-unused-parameter -Wno-used-but-marked-unused -Wno-vla -Wno-documentation-unknown-command -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-error=deprecated-declarations -Wno-error=unused-macros -Wno-error=float-equal -Wno-error=cast-qual -Wno-error=strict-prototypes -Wno-error=gnu-statement-expression -Wno-documentation -Werror -std=c99 -fPIC -O2 -DNDEBUG -fPIC",
+    "2": "--target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -Wall -std=c99 -fPIC -O2 -DNDEBUG -fPIC",
+    "3": "--target=x86_64-none-linux-android21 --gcc-toolchain=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/77471/AppData/Local/Android/Sdk/ndk/21.0.6113669/toolchains/llvm/prebuilt/windows-x86_64/sysroot -DWEBRTC_POSIX -IC:/Users/77471/Desktop/Android/app project/android-refimpl-app/native-audio-jni/src/main/cpp/webrtc/include -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -g -O3 -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\CMakeLists.txt",
+    "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\CMakeLists.txt",
+    "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "filter_audio-Release-x86_64": {
+      "buildCommand": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\x86_64\" filter_audio",
+      "buildType": "release",
+      "toolchain": "1534771861",
+      "abi": "x86_64",
+      "artifactName": "filter_audio",
+      "files": [
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\filter_audio.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\webrtc_vad.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_core.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_gmm.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_filterbank.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\vad\\vad_sp.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\zam\\filters.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\energy.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\float_util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\ring_buffer.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\downsample_fast.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\speex_resampler.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\high_pass_filter.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_by_2_internal.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\randomization_functions.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\cross_correlation.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\copy_set_operations.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\complex_bit_reverse.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\real_fft.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_by_2.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_init.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_fractional.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\vector_scaling_operations.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\get_scaling_square.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\delay_estimator.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\delay_estimator_wrapper.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\splitting_filter.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_sqrt_floor.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\resample_48khz.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\spl_sqrt.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\fft4g.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\division_operations.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\dot_product_with_scale.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\complex_fft.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\other\\min_max_operations.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_rdft.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\echo_cancellation.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_rdft_sse2.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_core.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_core_sse2.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\aec\\aec_resampler.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\noise_suppression.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\nsx_core_c.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\noise_suppression_x.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\nsx_core.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\ns\\ns_core.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\agc\\digital_agc.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\filter_audio\\agc\\analog_agc.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\x86_64\\filter_audio\\libfilter_audio.a",
+      "runtimeFiles": []
+    },
+    "webrtc-Release-x86_64": {
+      "buildCommand": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\x86_64\" webrtc",
+      "buildType": "release",
+      "toolchain": "1534771861",
+      "abi": "x86_64",
+      "artifactName": "webrtc",
+      "files": [
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\randomization_functions.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\spl_sqrt_floor.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\division_operations.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\vector_scaling_operations.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\downsample_fast.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\cross_correlation.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\spl_init.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\min_max_operations.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\complex_fft.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\complex_bit_reverse.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\real_fft.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\delay_estimator.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\delay_estimator_wrapper.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\ring_buffer.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\aecm_core.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\webrtc\\echo_control_mobile.c",
+          "flagsOrdinal": 3,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\x86_64\\webrtc\\libwebrtc.a",
+      "runtimeFiles": []
+    },
+    "native-audio-jni-Release-x86_64": {
+      "buildCommand": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\.cxx\\cmake\\release\\x86_64\" native-audio-jni",
+      "buildType": "release",
+      "toolchain": "1534771861",
+      "abi": "x86_64",
+      "artifactName": "native-audio-jni",
+      "files": [
+        {
+          "src": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\src\\main\\cpp\\native-audio-jni.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\77471\\Desktop\\Android\\app project\\android-refimpl-app\\native-audio-jni\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libnative-audio-jni.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1534771861": {
+      "cCompilerExecutable": "C:\\Users\\77471\\AppData\\Local\\Android\\Sdk\\ndk\\21.0.6113669\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

@@ -1,0 +1,7 @@
+Executable : E:\Android\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+E:\1\AS_project\ToxAndroidRefImpl-zoff99-dev003\android-refimpl-app\native-audio-jni\.cxx\cmake\debug\x86_64
+native-audio-jni
+jvmArgs : 
+

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-refimpl-app.iml" filepath="$PROJECT_DIR$/.idea/modules/android-refimpl-app.iml" group="android-refimpl-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="android-refimpl-app/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jnilib/jnilib.iml" filepath="$PROJECT_DIR$/.idea/modules/jnilib/jnilib.iml" group="android-refimpl-app/jnilib" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/native-audio-jni/native-audio-jni.iml" filepath="$PROJECT_DIR$/.idea/modules/native-audio-jni/native-audio-jni.iml" group="android-refimpl-app/native-audio-jni" />
+    </modules>
+  </component>
+</project>
